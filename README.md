@@ -116,7 +116,7 @@ Random forest is a flexible, easy to use machine learning algorithm that produce
 
 ## About me
 
-**Piyush Pathak**
+**Jatin Parmar**
 
 [**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
 
